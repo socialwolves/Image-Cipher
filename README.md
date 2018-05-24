@@ -7,10 +7,11 @@ Java based software for encrypting text into image. Number of characters you can
 
 ## Usage:
 1. Find a photo to use for encryption.
-2. Enter name of that photo.
-3. Enter text to encrypt.
-4. Click "Encrypt".
-5. Enjoy!
+2. Put the photo in the "images" folder.
+3. Enter the name of that photo in place of "image_name".
+4. Enter text to encrypt.
+5. Click "Encrypt".
+6. Enjoy!
 
 #### To decrypt text from image:
 1. Enter name of image with encrypted message.
@@ -22,3 +23,6 @@ Java based software for encrypting text into image. Number of characters you can
 
 ### After encryption
 ![Demo](images/output.png)
+
+
+### Documentation is available on: [JavaDoc](https://skocur.github.io/Image-Cipher/)
